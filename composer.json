@@ -1,0 +1,14 @@
+{
+    "name": "myapp/sherk",
+    "description": "Test Package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ariel Daza",
+            "email": "ariel.daza.castellon@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
